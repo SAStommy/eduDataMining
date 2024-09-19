@@ -14,3 +14,5 @@
 3. 影片 vs 書藉 vs 音檔
 4. 學生行為
 5. 整年overview
+
+database建議加入欄位學生成績
